@@ -1,2 +1,2 @@
-# portfo
+# Portfo
 Personal Portfolio WebPage
